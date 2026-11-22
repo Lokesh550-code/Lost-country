@@ -1,4 +1,4 @@
-# Campus Lost & Found
+# Lost Country 
 
 An AI-assisted lost-and-found platform for a college campus.
 
